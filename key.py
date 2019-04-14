@@ -5,7 +5,7 @@ import time
 from time import sleep
 
 g = "\033[32;1m"
-gt = "\033[0;32m"
+gt = "\033[01;32m"
 bt = "\033[34;1m"
 b = "\033[36;1m"
 m = "\033[31;1m"
