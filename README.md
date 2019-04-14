@@ -1,6 +1,6 @@
 # Kunci Tambahan Termux
 
-   **Installing : **
+   **Installing:**
 ```bash
 1. Download Termux Di Google Play Store
 2. Buka Lalu Ketik : 
