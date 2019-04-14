@@ -1,5 +1,5 @@
 # Kunci Tambahan Termux
-**Diperlukan Install : **
+*Diperlukan Install : *
 ```bash
 $ apt update && upgrade
 $ apt install git
