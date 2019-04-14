@@ -33,12 +33,13 @@ def slowprints(s):
 
 os.system("clear")
 farid37=(gt+"""
+==============================================
       _____ _    ____  ___ ____ __________
     _|  ___/ \  |  _ \|_ _|  _ \___ /___  |
    (_) |_ / _ \ | |_) || || | | ||_ \  / (_)
   _ _|  _/ ___ \|  _ < | || |_| |__) |/ / _ _
 (_|_)|_|/_/   \_\_| \_\___|____/____//_/ (_|_)
- =================================
+==============================================
 """)
 slowprints(farid37)
 print(gt+"")
@@ -65,6 +66,7 @@ sleep(2)
 slowprints("\n[!] Setting up setup file...")
 sleep(2)
 os.system("termux-reload-settings")
-slowprints("[!] Successfully !! Making Termux Shortcut Key, Terimakasih sudah memakai script ini untuk membantu anda :)")
+slowprints("[!] Successfully !! Making Termux Shortcut Key")
+slowprints("[!] Terima Kasih Sudah Menggunakan Script Ini, Don't Recoded Please")
 os.system("rm -f key.py")
 os.system('exit')
